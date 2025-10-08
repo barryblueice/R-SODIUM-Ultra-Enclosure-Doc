@@ -1,3 +1,3 @@
-# Headline
+# R-SODIUM Ultra Enclosure Development Docs
 
-> An awesome project.
+> R-SODIUM Ultra Enclosure的固件+GUI开发指南。
