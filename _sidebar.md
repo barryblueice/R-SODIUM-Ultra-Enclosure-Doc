@@ -1,8 +1,8 @@
 * 简介
     * [碎碎念](info/info.md)
-    * [Ultra Enclosure](info/hardware.md)
-    * [GUI Manager](info/software.md)
-    * [Firmware](info/firmware.md)
+    * [Ultra Enclosure 1.0/1.1](info/hardware_1_0_1.md)
+    * [Ultra 2 Enclosure Docker Station](info/hardware_2_0.md)
+    * [GUI Manager & Controller Firmware](info/software_firmware.md)
 * 软件
     * [GUI Manager For Enclosure 1.0](software/GUI_Manager_1_0.md)
     * [GUI Manager for Enclosure 2.0](software/GUI_Manager_2_0.md)
